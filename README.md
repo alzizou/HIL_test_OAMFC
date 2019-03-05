@@ -13,3 +13,5 @@ microcontroller. The data between two microcontollers is transferred using an I2
 In addition, the data is logged during the HIL test in MATLAB using serial communication between the microcontrollers and a laptop. 
 Appropriate performance of the AMFC algorithm is observed based on the results for the emulated dynamic models of a quadrotor 
 and a wheeled mobile robot (WMR).
+
+Read the provided PDF file for full report and results.
