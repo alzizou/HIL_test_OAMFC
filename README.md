@@ -16,4 +16,4 @@ and a wheeled mobile robot (WMR).
 
 Read the provided PDF file for full report and results.
 
-Also, the AMFC algorithm is prepared in OOP style for practical implementations in Arduino as the flight controller of a quadrotor and a WMR. See inside the folders with "OOP" in the name.
+Also, the AMFC algorithm is prepared in OOP style for practical implementations in Arduino as the flight controller of a quadrotor. See inside the folders with "OOP" in the name.
